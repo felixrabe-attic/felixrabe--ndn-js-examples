@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ndn-js-by-felixrabe": "^0.4.904"
+  }
+}
